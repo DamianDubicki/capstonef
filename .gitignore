@@ -1,0 +1,7 @@
+# Ignore virtual environment
+capstonef/
+# Ignore cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
